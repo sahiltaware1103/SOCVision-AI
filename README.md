@@ -16,6 +16,26 @@ SOCVision-AI is a cybersecurity project designed to simulate a SOC Analyst L1 wo
 - MITRE ATT&CK data integration
 - Automated incident report generation
 
+## 📊 Splunk SOC Dashboard
+
+SOCVision-AI includes a Splunk-based SOC monitoring dashboard for analyzing Windows security events and security activity in near real time.
+
+### Dashboard Overview
+
+The dashboard provides visibility into:
+
+- Total security events
+- Failed login attempts
+- Successful login attempts
+- Login activity timeline
+- MITRE ATT&CK activity
+- Alert severity
+- Top failed-login users
+- Top running processes
+- PowerShell activity
+- Network connections
+- Triggered security alerts
+
 ## 🔄 SOC Investigation Workflow
 
 Windows Security Events  
