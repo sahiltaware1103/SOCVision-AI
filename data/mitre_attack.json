@@ -1,0 +1,32 @@
+{
+  "4625": {
+    "technique": "T1110",
+    "name": "Brute Force",
+    "tactic": "Credential Access",
+    "severity": "High"
+  },
+  "4624": {
+    "technique": "T1078",
+    "name": "Valid Accounts",
+    "tactic": "Defense Evasion",
+    "severity": "Low"
+  },
+  "1": {
+    "technique": "T1059.001",
+    "name": "PowerShell",
+    "tactic": "Execution",
+    "severity": "Medium"
+  },
+  "3": {
+    "technique": "T1049",
+    "name": "System Network Connections Discovery",
+    "tactic": "Discovery",
+    "severity": "Medium"
+  },
+  "13": {
+    "technique": "T1112",
+    "name": "Modify Registry",
+    "tactic": "Defense Evasion",
+    "severity": "High"
+  }
+}

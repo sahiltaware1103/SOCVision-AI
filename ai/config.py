@@ -1,0 +1,5 @@
+SPLUNK_HOST = "192.168.56.103"
+SPLUNK_PORT = "8089"
+
+USERNAME = "splunk"
+PASSWORD = "splunksahil"
